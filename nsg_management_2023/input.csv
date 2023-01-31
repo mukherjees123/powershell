@@ -1,0 +1,2 @@
+NSGName,NSGLocation,RGName,Direction,Priority,RuleName,DestinationPort,Protocol,SourceAddress,SourcePort,DestinationAddress,Action,Description
+nsgtest420,uaenorth,rg-test-storage,outbound,347,dummy_rule2," 80,1024-65535",*,192.168.1.0/24,*,"192.168.4.3,192.168.5.6",allow,dummy
